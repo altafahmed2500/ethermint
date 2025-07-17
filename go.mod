@@ -36,7 +36,6 @@ require (
 	github.com/tendermint/tm-db v0.6.7
 	github.com/tidwall/gjson v1.14.4
 	github.com/tidwall/sjson v1.2.5
-	github.com/tyler-smith/go-bip39 v1.1.0
 	golang.org/x/net v0.9.0
 	golang.org/x/text v0.9.0
 	google.golang.org/genproto v0.0.0-20230110181048-76db0878b65f
